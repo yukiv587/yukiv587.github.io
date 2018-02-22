@@ -9,16 +9,16 @@
 #    target: _blank    是否跳出，省略则在当前页面打开
 menu:
   home:
-    text: 主页
+    text: 主頁
     url: /
   archives:
-    text: 档案
+    text: 歸檔
     url: /archives
   tags:
-    text: 标签
+    text: 標籤
     url: /tags
   th-list:
-    text: 分类
+    text: 分類
     url: /categories
   #github:
     #url: https://github.com/yscoder
