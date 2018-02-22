@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yukiv587.github.io/blog
-root: /blog/
+url: https://yukiv587.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -71,3 +71,27 @@ deploy:
   type: git
   repository: https://github.com/yukiv587/yukiv587.github.io.git
   branch: master
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
