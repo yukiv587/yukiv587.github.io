@@ -1,7 +1,7 @@
 ---
 title: CSS实用Tips
 date: 2018-02-08 15:13:51
-tags: CSS
+tags: [HTML,CSS,JS]
 categories : 前端
 ---
 
