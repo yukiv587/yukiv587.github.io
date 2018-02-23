@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://yukiv587.github.io/blog/"/>
-  <updated>2018-02-22T06:23:13.638Z</updated>
+  <updated>2018-02-23T02:03:24.868Z</updated>
   <id>https://yukiv587.github.io/blog/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yukiv587.github.io/blog/2018/02/08/CSS%E5%AE%9E%E7%94%A8Tips/"/>
     <id>https://yukiv587.github.io/blog/2018/02/08/CSS实用Tips/</id>
     <published>2018-02-08T07:13:51.000Z</published>
-    <updated>2018-02-22T06:23:13.638Z</updated>
+    <updated>2018-02-23T02:03:24.868Z</updated>
     
     <content type="html"><![CDATA[<p>作为自己做前端开发以来的CSS爬坑总结，内容偏向PC端，不定期补充。<br>只作提示，不深谈。</p><h2 id="盒子模型"><a href="#盒子模型" class="headerlink" title="盒子模型"></a>盒子模型</h2><ul><li>a</li><li>b </li><li>c</li></ul><p>1、区分content-box和border-box的尺寸计算。</p><p>2、行级元素无宽高，但可设内外边距。</p><p>3、外边距margin可设负值，内边距padding不可以。</p><p>4、当内外边距值为百分比时是相对于元素宽度计算的。</p><p>5、border是个好玩的东西，关键字：css三角形。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&apos;Hello World!&apos;);</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -44,11 +44,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>hexo 指南</title>
     <link href="https://yukiv587.github.io/blog/2018/02/08/hello-world/"/>
     <id>https://yukiv587.github.io/blog/2018/02/08/hello-world/</id>
     <published>2018-02-08T05:59:10.929Z</published>
-    <updated>2018-02-08T05:59:10.930Z</updated>
+    <updated>2018-02-23T02:17:22.134Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
@@ -60,6 +60,34 @@
       
     
     </summary>
+    
+      <category term="学习文档" scheme="https://yukiv587.github.io/blog/categories/%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3/"/>
+    
+    
+      <category term="hexo" scheme="https://yukiv587.github.io/blog/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用网站</title>
+    <link href="https://yukiv587.github.io/blog/2018/02/08/%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <id>https://yukiv587.github.io/blog/2018/02/08/常用网站/</id>
+    <published>2018-02-08T02:36:26.000Z</published>
+    <updated>2018-02-23T08:22:24.790Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="参考手册"><a href="#参考手册" class="headerlink" title="参考手册"></a>参考手册</h1><ul><li><a href="http://css.doyoe.com/" target="_blank" rel="noopener">css参考手册</a></li><li><a href="http://www.divcss5.com/css3/" target="_blank" rel="noopener">css3参考手册</a></li><li><a href="http://www.jq22.com/chm/jquery/index.html" target="_blank" rel="noopener">jquery手册</a></li></ul><hr><h1 id="前端框架"><a href="#前端框架" class="headerlink" title="前端框架"></a>前端框架</h1><ul><li><a href="http://v3.bootcss.com/" target="_blank" rel="noopener">Bootstrop</a></li><li><a href="https://cn.vuejs.org/v2/guide/" target="_blank" rel="noopener">vue</a></li><li><a href="https://vux.li/#/" target="_blank" rel="noopener">vux</a></li><li><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">hexo</a></li></ul><hr><h1 id="学习资料"><a href="#学习资料" class="headerlink" title="学习资料"></a>学习资料</h1><ul><li><a href="https://luuman.github.io/FrontEndGuide/V1/index.html#page_0" target="_blank" rel="noopener">前端导航</a></li><li><a href="http://es6.ruanyifeng.com/#README" target="_blank" rel="noopener">ES6</a></li><li><a href="https://mp.weixin.qq.com/debug/wxadoc/dev/" target="_blank" rel="noopener">微信小程序文档</a></li><li><a href="https://www.appinn.com/markdown/" target="_blank" rel="noopener">markdown 语法说明</a></li></ul><hr><h1 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h1><h2 id="css样式重置"><a href="#css样式重置" class="headerlink" title="css样式重置"></a>css样式重置</h2><ul><li><a href="http://necolas.github.io/normalize.css/" target="_blank" rel="noopener">normalize.css</a></li><li><a href="https://cssreset.com/" target="_blank" rel="noopener">CSS reset</a></li></ul><h2 id="动画库"><a href="#动画库" class="headerlink" title="动画库"></a>动画库</h2><ul><li><a href="https://daneden.github.io/animate.css/" target="_blank" rel="noopener">Animate.css</a></li><li><a href="http://h5bp.github.io/Effeckt.css/" target="_blank" rel="noopener">Effeckt.css</a></li><li><a href="https://www.minimamente.com/example/magic_animations/" target="_blank" rel="noopener">magic.css</a></li><li><a href="http://www.htmleaf.com/css3/css3donghua/201501061116.html/" target="_blank" rel="noopener">csshake.css – 抖动动画</a></li><li><a href="http://www.htmleaf.com/jQuery/Image-Effects/201501061112.html" target="_blank" rel="noopener">snabbt.js</a></li></ul><h2 id="JQuery插件"><a href="#JQuery插件" class="headerlink" title="JQuery插件"></a>JQuery插件</h2><ul><li><a href="http://www.jq22.com/" target="_blank" rel="noopener">JQuery插件库</a></li><li><a href="http://www.htmleaf.com/" target="_blank" rel="noopener">JQuery之家</a></li></ul><h1 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h1><p> <a href="http://cubic-bezier.com/#.17,.67,.83,.67" target="_blank" rel="noopener">贝塞尔曲线css3绘制工具</a></p><hr><h1 id="素材网"><a href="#素材网" class="headerlink" title="素材网"></a>素材网</h1><ul><li><a href="https://tinypng.com/" target="_blank" rel="noopener">图片压缩</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;参考手册&quot;&gt;&lt;a href=&quot;#参考手册&quot; class=&quot;headerlink&quot; title=&quot;参考手册&quot;&gt;&lt;/a&gt;参考手册&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://css.doyoe.com/&quot; target=&quot;_blank&quot; rel=&quot;noo
+      
+    
+    </summary>
+    
+      <category term="学习文档" scheme="https://yukiv587.github.io/blog/categories/%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3/"/>
     
     
   </entry>
