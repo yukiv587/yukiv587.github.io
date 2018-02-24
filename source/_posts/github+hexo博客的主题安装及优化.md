@@ -18,9 +18,7 @@ categories : 学习文档
 >这个命令要在博客文件夹的根目录右击鼠标打开Git Bash输入命令，其中themes/indigo就是会在博客文件夹根目录中的themes新建一个indigo文件夹存放clone下来的主题，以后的主题通常都是存放在这个目录下。
 通俗来说就是这样git clone +通过主题的github中获取的URL+ +themes/indigo
 
-<div class="img-lightbox">{% asset_img hexo-1.jpg  %}</div>
-{% asset_img hexo-1.jpg  %}
-{% img http://oqlrsmf3l.bkt.clouddn.com/image/blog/github+hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%BB%E9%A2%98%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BC%98%E5%8C%96hexo%E4%B8%8B%E8%BD%BD%E4%B8%BB%E9%A2%98.png %}
+{% image hexo-1.jpg %}
 
 ### Run server
 
