@@ -432,6 +432,7 @@
             }
 
             forEach.call($$('.img-lightbox'), function (el) {
+                console.log(el);
                 new LightBox(el)
             })
         })(),
